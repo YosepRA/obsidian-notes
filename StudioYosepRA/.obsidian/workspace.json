@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "89a371856d4bb46a",
+    "type": "split",
+    "children": [
+      {
+        "id": "70b8fc9463183371",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94c4fcc848d27593",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "2021f18be4a2755b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "208b6e5d962dd553",
+    "type": "split",
+    "children": [
+      {
+        "id": "1138faa061170385",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1439b589d3d6d0fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "955a650584ba1db5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbf6034ce1f83530",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "59ba40aeae311396",
+    "type": "split",
+    "children": [
+      {
+        "id": "4863fc1cf1f4a0a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a583bd8aecb851a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5af7234d354b6ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d1fd120d011d45d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c66a5dbee062ef1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "94c4fcc848d27593",
+  "lastOpenFiles": [
+    "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
+    "06 - Permanent Notes/Multitasking Is Not a Sign of Productivity.md",
+    "06 - Permanent Notes/The Decreasing Focus in an Increasingly Fast World.md",
+    "03 - Tags/social media.md",
+    "03 - Tags/deep focus.md",
+    "06 - Permanent Notes/What Matters Is Not the Amount of Books You Have Read.md",
+    "06 - Permanent Notes/Seeking Feedback Is the First Virtue of Anyone Who Wants to Learn.md",
+    "03 - Tags/sharing our works.md",
+    "06 - Permanent Notes/Superficial Rewards When Building Habits.md",
+    "03 - Tags/building habits.md",
+    "06 - Permanent Notes/Good Questions Will Come After You Have Explored Enough.md",
+    "06 - Permanent Notes/The Slip-Box, Your Second Breathing Brain.md",
+    "06 - Permanent Notes/todo list.md",
+    "todo list.md",
+    "06 - Permanent Notes/There Was Never Such Thing as Blank Page.md",
+    "There Was Never Such Thing as Blank Page.md",
+    "06 - Permanent Notes/No One Starts from Scratch.md",
+    "06 - Permanent Notes/Writing, So That It Can be Published.md",
+    "109378242_p0.png",
+    "06 - Permanent Notes/It's All About Writing, Nothing Else Count.md",
+    "06 - Permanent Notes/Making Best Use of Every Book That You Read.md",
+    "03 - Tags/building a project.md",
+    "06 - Permanent Notes/The Balance Between Direction and Pleasant Detours.md",
+    "03 - Tags/purposeful life.md",
+    "05 - Templates/Full Note.md",
+    "06 - Permanent Notes/Studying, for the Love of It, and Not for Money.md",
+    "06 - Permanent Notes/Talent and Hard Work.md",
+    "02 - Source Materials/Video Tutorials",
+    "02 - Source Materials/Books",
+    "06 - Permanent Notes",
+    "05 - Templates",
+    "04 - Indexes",
+    "03 - Tags",
+    "02 - Source Materials",
+    "01 - Rough Notes"
+  ]
+}
