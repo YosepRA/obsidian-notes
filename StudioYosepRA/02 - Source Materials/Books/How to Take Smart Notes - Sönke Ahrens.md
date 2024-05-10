@@ -283,3 +283,78 @@ Talking about an example of texting and driving at the same time. Could you trul
 It's the constant switching of context that will inevitable hurt you and the quality of works and perhaps your sanity too. What is the difference between texting while driving, and working on your spreadsheet report while listening to the important project briefing from your manager? Right, none. Multitask is not only a lie, but it works against your best intention.
 
 
+**p92**
+
+"The fact that people nevertheless believe that they can get better at it (multitasking) and increase their productivity can easily be explained by two factors. The first is the lack of \[…] objective external measurement \[…]. The second is \[…] the mere-exposure effect: doing something many times makes us believe we have become good at it \[…]. We unfortunately tend to confuse familiarity with skill."
+
+It's easy to believe that the more we do the same thing, the better we will get at it. To a great extent, this may be true. But I realize that this can also be not quite accurate also. 
+
+Yes, we may feel that we are *getting used to it.* That we no longer need to think too much, and as if it has become our second nature. Yes, getting exposed more to something will make us adapt, inevitably so. However, what makes this inaccurate is that what truly matters is the results at the end when it comes to evaluating our new habit.
+
+Some people may believe that the more they multitask, the more it will be come easier for them (or the more it will become their second nature). And they evaluate how good they are at multitasking by their feeling of how easy it has become for them. However, they don't pay enough attention to the result, which should have served as the better measurement unit to determine the quality of their work.
+
+
+**p96**
+
+"The good news is that we can train ourselves to stay focused on one thing for longer if we avoid multitasking, remove possible distractions and separate different kinds of tasks as much as possible so they will not interfere with each other."
+
+In this world that is chock-full of distractions, we can still train ourselves to stay focused, as long as we avoid multitasking, remove possible distractions (social media and cheap entertainment), and separate different tasks so they won't get in each other's way.
+
+This is a good news because the ability to focus is decreasing for all mankind. As this is going to be a rare trait for the next few decades.
+
+
+**p103**
+
+"The key to creativity is being able to switch between a wide-open, playful mind and a narrow analytical frame."
+
+There are tasks that requires you to deliberately put more attention on them, but yet there are other tasks that requires you to be playful and let your mind floats around as you experiment with your ideas.
+
+
+**p103**
+
+"Although planning is almost universally recommended by study guides, it’s the equivalent of putting oneself on rails."
+
+If you want to succeed, make plans. Or at least, that's what people have been saying all this time. Though I'm not totally against the habit making plans, but somehow, it has never worked out well for me when I'm being too faithful with my plans. As if when I choose to stick with it, it makes me rigid and unwelcoming to the circumstances in life that often requires me to be flexible.
+
+
+**p103**
+
+"It is a matter of practice to become good at generating insight and write good texts by choosing and moving flexibly between the most important and promising tasks, judged by nothing else than the circumstances of the given situation."
+
+Rather than making plans that if you stick to it will only make you rigid, it's better to become good at generating insights by choosing what is the most important and promising tasks, judged based only on the circumstances at hand.
+
+It's not wrong to make plans, as in determining our direction in life. But it's better to be adaptable and continually adjust our actions to do what tasks currently are more important according to current circumstances.
+
+
+**p103**
+
+"To be able to become an expert, we need the freedom to make our own decisions and all the necessary mistakes that help us learn."
+
+Making mistakes and the courage to keep on going despite it is of paramount importance to become an expert at something. The way of mastery isn't written like how recipe in cookbooks are. There is no step-by-step guide that will ensure you to be an expert. Sure, these guides can lead you somewhere, but 90% of your journey will be filled with circumstances and countless uncertainties, and the way you respond to it, in which you exercise your freedom, will determine where you are heading going forward.
+
+
+**p107**
+
+"Teachers tend to mistake the ability to follow (their) rules with the ability to make the right choices in real situations."
+
+As long as one follows the rules, that is the step-by-step guide to do something, then one will not fail. It's often understood, or misunderstood, that as long as you follow what your teacher once taught you, then you will be okay in the real world. But sooner than later, you will understand that the reality is much more complex than what your teacher has taught you.
+
+This isn't to say that what the teachers are teaching are worthless, but it's better to think of their wisdom as only one drop of the sea. Following how you were taught doesn't make you an expert in the real world.
+
+
+**p107**
+
+"According to the Dreyfuses (Hubert and Stuart Dreyfus), the correct application of teachable rules enables you to become a competent “performer” (which corresponds to a “3” on their five-grade expert scale), but it won’t make you a “master” (level 4) and certainly won’t turn you into an “expert” (level 5)."
+
+Following only what you were taught can only bring you to a state where you could pass your exams. But when it comes to real world, more experience will carry you further forward as you trim your knowledge to fit different circumstances that may occur. And an ability to correctly (and calmly) determine what to do according to the circumstances is what separate the experts and the exam passers.
+
+
+**p107**
+
+"Experts \[…] have acquired enough experience in various situations to be able to rely on their _intuition_ to know what to do in which kind of situation."
+
+"The intuition \[…] can also only be gained by systematic exposure to feedback loops and experience \[…]."
+
+A system of which it can enable one to be consistently exposed to feedback loops by experimenting and making mistakes, then to be able to gain experience from that, and to enable one to practice deliberately will lead one to mastery.
+
+To be easily and consistently exposed to your weaknesses can one know how and what to practice. By deliberately practicing that part of our weakness by studying and experimenting we can be exposed to a feedback loop where we can continually adjust to what is working and what is not. As we continually work using this endless system, then we can gain more experience which is crucial to attain mastery. 
