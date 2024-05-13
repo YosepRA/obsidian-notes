@@ -358,3 +358,24 @@ Following only what you were taught can only bring you to a state where you coul
 A system of which it can enable one to be consistently exposed to feedback loops by experimenting and making mistakes, then to be able to gain experience from that, and to enable one to practice deliberately will lead one to mastery.
 
 To be easily and consistently exposed to your weaknesses can one know how and what to practice. By deliberately practicing that part of our weakness by studying and experimenting we can be exposed to a feedback loop where we can continually adjust to what is working and what is not. As we continually work using this endless system, then we can gain more experience which is crucial to attain mastery. 
+
+
+**p109**
+
+"This is why it is so much easier to remember things we understand than things we don’t."
+
+"Things we understand are _connected,_ either through rules, theories, narratives, pure logic, mental models or explanations."
+
+We are not only limited in our attention, but also our short-term memory. In fact, we don't actually "save" things to our short-term memory like how we do with our computer's hard drives, that we can put something in it and move on with thinking about something else that is more interesting. No. Short-term memory is similar to floating thoughts on top of your head, always seeking to get your attention. If you don't give them enough attention, you will quickly forget about it.
+
+Our short-term memory can only hold about 7 items at a time (+- 2). If you are laughing it off as too little, well, try remember these digits "11 95 82 19 62 31 96 64 19 70 51 97 4" only once then recite it. It gets difficult, right? Well, now, how about this one instead?
+
+1 1958
+2 1962
+3 1966
+4 1970
+5 1974
+
+Yep, they are the exact numbers. They are just 5 years of World Cup listed consecutively after all. At this point, we no longer think about the individual digits, but rather a *bundle* of digits representing something.
+
+This is why it's much easier to remember things we understand than things we don't. And the things we understand are connected with each other. Since slip-box is all about building connection, then it plays into our hands as we understand our notes not merely as isolated notes, but rather a cluster of interconnected notes.

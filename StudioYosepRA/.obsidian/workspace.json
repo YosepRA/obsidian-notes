@@ -32,7 +32,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md"
+              }
             }
           }
         ]
@@ -156,8 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94c4fcc848d27593",
+  "active": "2021f18be4a2755b",
   "lastOpenFiles": [
+    "06 - Permanent Notes/Blissful Life Was Never the Answer.md",
+    "03 - Tags/the virtue of suffering.md",
     "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
     "06 - Permanent Notes/The Importance of Feedback Loops in the Attaintment of Mastery.md",
     "03 - Tags/mastery.md",
@@ -183,8 +190,6 @@
     "06 - Permanent Notes/It's All About Writing, Nothing Else Count.md",
     "06 - Permanent Notes/Making Best Use of Every Book That You Read.md",
     "03 - Tags/building a project.md",
-    "06 - Permanent Notes/The Balance Between Direction and Pleasant Detours.md",
-    "03 - Tags/purposeful life.md",
     "02 - Source Materials/Video Tutorials",
     "02 - Source Materials/Books",
     "06 - Permanent Notes",
