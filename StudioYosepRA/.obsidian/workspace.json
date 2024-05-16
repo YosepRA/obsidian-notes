@@ -32,8 +32,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,11 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2021f18be4a2755b",
+  "active": "94c4fcc848d27593",
   "lastOpenFiles": [
+    "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
+    "06 - Permanent Notes/Maintaining Objective View on the Text Which We Are Reading.md",
+    "06 - Permanent Notes/The Tiresome of Decision Making in a Study System.md",
     "06 - Permanent Notes/Blissful Life Was Never the Answer.md",
     "03 - Tags/the virtue of suffering.md",
-    "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
     "06 - Permanent Notes/The Importance of Feedback Loops in the Attaintment of Mastery.md",
     "03 - Tags/mastery.md",
     "06 - Permanent Notes/Focus and Attention According to Context.md",
@@ -188,8 +185,6 @@
     "06 - Permanent Notes/Writing, So That It Can be Published.md",
     "109378242_p0.png",
     "06 - Permanent Notes/It's All About Writing, Nothing Else Count.md",
-    "06 - Permanent Notes/Making Best Use of Every Book That You Read.md",
-    "03 - Tags/building a project.md",
     "02 - Source Materials/Video Tutorials",
     "02 - Source Materials/Books",
     "06 - Permanent Notes",

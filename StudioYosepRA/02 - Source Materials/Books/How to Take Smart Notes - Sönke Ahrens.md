@@ -379,3 +379,77 @@ Our short-term memory can only hold about 7 items at a time (+- 2). If you are l
 Yep, they are the exact numbers. They are just 5 years of World Cup listed consecutively after all. At this point, we no longer think about the individual digits, but rather a *bundle* of digits representing something.
 
 This is why it's much easier to remember things we understand than things we don't. And the things we understand are connected with each other. Since slip-box is all about building connection, then it plays into our hands as we understand our notes not merely as isolated notes, but rather a cluster of interconnected notes.
+
+
+**p118**
+
+"It is well known that decision-making is one of the most tiring and wearying tasks."
+
+Making decision is hard, and tiresome to boot. Then imagine having a studying system where we constantly have to ask ourselves what should we jot down, how should we write it, or where should we store our notes. If I have to constantly be bugged down with such questions, then I would really not bother studying at all.
+
+Fortunately, now I know enough of writing notes in a form of mini-essays and store it in a slip-box. Since then, I discover how fun studying is. Or for me personally, I'm being reminded of how fun studying always was.
+
+
+**p120**
+
+"While the notes themselves are formulated so that they can be understood on their own, they are at the same time embedded in one or more contexts that enrich their meaning."
+
+"\[…] the idea is not to copy, but to have a meaningful dialogue with the texts we read."
+
+When we try to write a paper by exploring our slip-box, we will see that not only does each of the notes can be understood in isolation, but the connection it forms with many other notes can build a comprehensive net of information. Therefore, the connection will further enrich the initial idea or note which you open.
+
+Arranging these notes into something more linear involves understanding the connection between these notes. The idea is not to copy one note and other notes which are connected to it, but rather welcome the insights that are coming from your notes exploration.
+
+
+**p122**
+
+"Sometimes it is necessary to slowly work our way through a difficult text and sometimes it is enough to reduce a whole book to a single sentence. The only thing that matters is that these notes provide the best possible support for the next step, the writing of the actual slip-box notes."
+
+It's about being selective about what we write on our notes. After a few days of developing a habit of writing notes, I understand quickly how much time it takes for me to elaborate myself in writing. Although I'm willing to spend more time in studying, I understand that the consistent effort of writing notes can easily take quite a lot of my time.
+
+Some materials can be skimmed and reduced to a few short text. But naturally, once I encounter an interesting idea, I would start thinking about the title of the note and I would just start writing a note designated to be placed inside my slip-box. At this point, there are things which I can't help but write and elaborate more. 
+
+Not to say that after writing these notes, I would be mentally exhausted. And to recover from that requires time too.
+
+
+**p122**
+
+"Without a clear purpose for the notes, taking them will feel more like a chore than an important step within a bigger project."
+
+The main purpose of writing notes is not only to practice our understanding of the materials that we are studying by writing it in our own words, but also to use it later on. The biggest waste of writing notes is to never use it for anything later.
+
+
+**p122**
+
+"Literature notes are short and meant to help with writing slip-box notes."
+
+Just like what I'm doing in this page as I copied snippets of text from the book, then I elaborate about it more. Whenever I see an interesting point worth further elaboration, I would write a permanent note which will later be added to the slip-box.
+
+Therefore, it's important to keep literature notes concise and serve only as a reminder of the text that you are reading to day. Because at the end of it all, you won't (or rarely) be visiting your literature notes anyway and you will linger more in your slip-box instead.
+
+
+**p127**
+
+"\[…] two psychologists tried to find out if it made a difference if students in a lecture took notes by hand or by typing them into their laptops (Mueller and Oppenheimer 2014)."
+
+"\[…] in terms of _understanding_ the content of the lecture, the students who took their notes by hand came out much, much better. After a week, this difference in understanding was still clearly measurable."
+
+"\[…] students can’t write fast enough to keep up with everything that is said in a lecture, they are forced to focus on the gist of what is being said, not the details."
+
+"So if you are writing by hand, you are _forced to think_ about what you hear (or read) – otherwise you wouldn’t be able to grasp the underlying principle, the idea, the structure of an argument."
+
+It has always been a question to me whether it's better to write notes by hand or using computers, like I do currently. I always have a feeling that writing by hand often helped me a lot when it comes to understanding what I just read. But at the same time, I also understand how helpful my computer is when it comes to speed and organizing files, especially now that I've been using Obsidian and the slip-box method from this book.
+
+
+**p127**
+
+"While we should seek out dis-confirming arguments and facts that challenge our way of thinking, we are naturally drawn to everything that makes us feel good, which is everything that confirms what we already believe we know."
+
+Good questions often come from a concept that is challenging to our own understanding. To a certain extent, we doubt what we have known previously. But oftentimes, we may think that what we understood isn't yet complete or elaborate enough.
+
+But alas, we, humans, tend to conform to what is comfortable to us. Meaning that as long as what we are reading is aligned to what we already know, we can easily be biased with it and regard it as "the most useful information there is".
+
+It's the idea of keeping an open mind. Not necessarily to accept literally everything we read as the truth and instantly falsify our current understanding. But be open minded enough to maintain an objective view of knowledge and the bigger picture of it all, knowing that the text that we are reading is written by an author(s) with their own world view, biases, and their own view of "truth".
+
+
+**p**
