@@ -5,3 +5,4 @@ Tags: [[computer science]]
 
 ---
 
+Divide $0 \leq x < 10$  

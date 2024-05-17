@@ -33,25 +33,12 @@
             }
           },
           {
-            "id": "1d4da90da0bd622c",
+            "id": "ef4a907cb74d9d2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Permanent Notes/The Art of Computer Programming - Donald E. Knuth.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47a17c9ae83c401f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Permanent Notes/Life Is Too Short to Not Do Things That You Like.md",
+                "file": "06 - Permanent Notes/The Satisfying Kind of “Fun”.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Permanent Notes/Life Is Too Short to Not Do Things That You Like.md",
+                "file": "06 - Permanent Notes/The Satisfying Kind of “Fun”.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Permanent Notes/Life Is Too Short to Not Do Things That You Like.md",
+                "file": "06 - Permanent Notes/The Satisfying Kind of “Fun”.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Permanent Notes/Life Is Too Short to Not Do Things That You Like.md"
+                "file": "06 - Permanent Notes/The Satisfying Kind of “Fun”.md"
               }
             }
           }
@@ -187,13 +174,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47a17c9ae83c401f",
+  "active": "ef4a907cb74d9d2d",
   "lastOpenFiles": [
-    "06 - Permanent Notes/Life Is Too Short to Not Do Things That You Like.md",
+    "03 - Tags/social media.md",
+    "06 - Permanent Notes/The Satisfying Kind of “Fun”.md",
     "06 - Permanent Notes/The Art of Computer Programming - Donald E. Knuth.md",
+    "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
+    "06 - Permanent Notes/Life Is Too Short to Not Do Things That You Like.md",
     "03 - Tags/computer science.md",
     "03 - Tags/software engineering.md",
-    "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
     "06 - Permanent Notes/The Thin Line Between Open-Mindedness and Truth Bias.md",
     "06 - Permanent Notes/Maintaining Objective View on the Text Which We Are Reading.md",
     "03 - Tags/how to study.md",
@@ -206,7 +195,6 @@
     "06 - Permanent Notes/Focus and Attention According to Context.md",
     "06 - Permanent Notes/Multitasking Is Not a Sign of Productivity.md",
     "06 - Permanent Notes/The Decreasing Focus in an Increasingly Fast World.md",
-    "03 - Tags/social media.md",
     "03 - Tags/deep focus.md",
     "06 - Permanent Notes/What Matters Is Not the Amount of Books You Have Read.md",
     "06 - Permanent Notes/Seeking Feedback Is the First Virtue of Anyone Who Wants to Learn.md",
@@ -214,7 +202,6 @@
     "06 - Permanent Notes/Superficial Rewards When Building Habits.md",
     "03 - Tags/building habits.md",
     "06 - Permanent Notes/The Slip-Box, Your Second Breathing Brain.md",
-    "06 - Permanent Notes/todo list.md",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",
     "02 - Source Materials/Books",
