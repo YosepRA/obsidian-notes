@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "ef4a907cb74d9d2d",
+            "id": "120e1f5d8f7cd482",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Permanent Notes/The Satisfying Kind of “Fun”.md",
+                "file": "02 - Source Materials/Video Tutorials/Figma Tutorial A Crash Course for Beginners - Bring Your Own Laptop.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "59ba40aeae311396",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Permanent Notes/The Satisfying Kind of “Fun”.md",
+                "file": "02 - Source Materials/Video Tutorials/Figma Tutorial A Crash Course for Beginners - Bring Your Own Laptop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Permanent Notes/The Satisfying Kind of “Fun”.md",
+                "file": "02 - Source Materials/Video Tutorials/Figma Tutorial A Crash Course for Beginners - Bring Your Own Laptop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Permanent Notes/The Satisfying Kind of “Fun”.md"
+                "file": "02 - Source Materials/Video Tutorials/Figma Tutorial A Crash Course for Beginners - Bring Your Own Laptop.md"
               }
             }
           }
@@ -174,12 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef4a907cb74d9d2d",
+  "active": "120e1f5d8f7cd482",
   "lastOpenFiles": [
-    "03 - Tags/social media.md",
-    "06 - Permanent Notes/The Satisfying Kind of “Fun”.md",
-    "06 - Permanent Notes/The Art of Computer Programming - Donald E. Knuth.md",
+    "02 - Source Materials/Books/The Art of Computer Programming - Donald E. Knuth.md",
+    "02 - Source Materials/Video Tutorials/Figma Tutorial A Crash Course for Beginners - Bring Your Own Laptop.md",
+    "03 - Tags/graphic design.md",
+    "03 - Tags/ui-ux design.md",
+    "ui/ux.md",
     "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
+    "ui",
+    "06 - Permanent Notes/The Satisfying Kind of “Fun”.md",
+    "03 - Tags/social media.md",
     "06 - Permanent Notes/Life Is Too Short to Not Do Things That You Like.md",
     "03 - Tags/computer science.md",
     "03 - Tags/software engineering.md",
@@ -198,10 +202,6 @@
     "03 - Tags/deep focus.md",
     "06 - Permanent Notes/What Matters Is Not the Amount of Books You Have Read.md",
     "06 - Permanent Notes/Seeking Feedback Is the First Virtue of Anyone Who Wants to Learn.md",
-    "03 - Tags/sharing our works.md",
-    "06 - Permanent Notes/Superficial Rewards When Building Habits.md",
-    "03 - Tags/building habits.md",
-    "06 - Permanent Notes/The Slip-Box, Your Second Breathing Brain.md",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",
     "02 - Source Materials/Books",
