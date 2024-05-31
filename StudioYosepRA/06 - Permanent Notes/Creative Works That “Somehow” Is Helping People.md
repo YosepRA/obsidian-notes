@@ -27,7 +27,48 @@ I feel crippled. I can't move. I know what I need to do, which is to work and us
 
 Before I realize it, I have carried the burden that failure in my creative works means death, not only to me, but also my family. I don't need to say this, but this is not a healthy mindset to have. And as I write this, I'm trying to dig deeper into this feelings.
 
+---
 
+Alright, where should I start. What I mean by start is what is the first question I should ask myself to challenge that perception? To question it further and determine whether they are reasonable or not.
+
+Let's talk about what creativity is first. Creativity is simply a desire to create. When you think that you want to build something, you just simply go for it. There is no further question to be asked, nor doubt to linger. Do it with your heart. That's it. After that comes an aspect that is as important as creating stuff, which is sharing it to the community. From there, you will get all sorts of reactions such as praise and criticism. However, it will be best if at least there is one person who find what you build to be useful.
+
+This is what I think about creativity itself. A very simple and mundane desire to create. As long as what you're trying to build is good, then it's never bad to start building on it.
+
+The next is a question about making a living, or making money. Making money is, well, making money. You have a service or goods that people need, then people will buy them. When it comes to creative works, they are our service and goods. If there is a person who needs it and they are willing to pay for it, then that's how you make money.
+
+That's just a simple gist of making money. However, we all know that it's not that simple. And I don't want to elaborate any further lest this post become to congested with nonsensical anxiety that will make me miss the simple part of it.
+
+The part of creativity where you should share it to other people and the part of making money where you are selling your products are tightly connected. This is where my greatest weakness is.
+
+I always find it difficult to share my thoughts and ideas. Mainly, it was because of my rock-bottom confidence. Who am I to voice my ideas? Who am I to tell that other person that their product is bound to fail? Who am I to encourage people to separate trashes based on their type? Truly... Who am I to think that I deserve to even let my voice out?
+
+Yes. My confidence is that low when it comes to sharing my thoughts and ideas. Which is weird because contrasting to that, I have a weird confidence (or ignorance, whatever you want to call it) when faced with difficult computer science materials. Like the thought of being quite good at computer science, engineering, or even art isn't too far from my arms' reach. And I understand that these feeling of weird confidence is rooted not from arrogance, as in I underestimate everything and think these fields are actually so easy. No, it's not like that. But rather, I understand how vast the world is, how much I need and could learn, which is basically unlimited honestly. But despite that, I don't feel discourage with the vastness of it all. On the contrary, I'm weirdly excited. Weird for someone as apathetic as I am.
+
+---
+
+To simplify the content of the previous block into short sentences:
+
+**"I don't know how to share or in what way should I share my works with others. Moreover, I absolutely hate and detest it to use money as a reason and motivation to be creative. However, I absolutely do NOT have any problem, deficiency, or apathy on my curiosity of being creative and do hard things."**
+
+It's true that I don't know what to say to other people when it comes to sharing my works. Heck, I can't even imagine myself saying "Hey, this is what I just build. Check it out!" Perhaps, I just have a lingering and hidden fear of criticism. It's funny because despite my apparent apathetic nature, I can't just not care about what people say about what I create. Sure, getting criticized is painful. But **it's so much more painful for me if my creations somehow endanger and hurt someone instead.** I'm too weak-hearted to bear the responsibility, which is something I must bear, of course. I guess, this is one of the thorn in my heart that continually piercing it from inside out.
+
+Ha! Even the thought of myself building an application which has a payment system to it, then there is a bug that causes people miss their money continually scare me and give me endless anxiety. So yeah... The thought of hurting people unintentionally because of my imperfections as a creative person is what scares me the most right now.
+
+---
+
+Based on that, what can I do? One or a few things I know is that:
+
+1. *I can't control how people think and feel about me.*
+   People can like me or hate me, it's absolutely up to them. I won't say that I won't care about it because I simply cannot. But, I very much understand that however best I conduct myself, even then when I breathe, I may have hurt someone else. Even by living, I may have hurt someone else. To that point, I simply can't do anything about it.
+2. *What I can do is what I can do.*
+   This is what I've been trying to instill and carve in my heart for the past few months. No matter how chaotic and uncertain the world around me is, what I can do for today is what I can do for today. And what I can do for today, I must put my best effort and heart to it. As long as I put in the good works, it will inevitably bear good fruits too sometimes later. God is a good God. He won't give me rocks when I plant wheat and nurture it well to my best abilities. To that, I have to have faith, in God primarily and in my works and honest efforts too.
+
+Truly, most (if not all) of my mental problems can be solved by those two points. An understanding of things that I cannot control, and an understanding of things that I can. An understanding that I reap what I sow. If I sow good seeds and nurture it with an honest heart and effort, God will bring it to bear good fruits also. It won't bear good fruits in our timing, but on His timing. To that, again, I have to have faith in God and my works.
+
+Then, what can I do as a creative person and a human being today and forever? Well, I should just create. Whenever I can think of something, an app, music, art, whatever that can help people in their particular difficulties, then I would just create it. One thing for sure is that my creations won't be perfect nor flawless. They may not be the most beautiful and perfect thing in the world that deserve all the praise, adulation, or money. But I at least can guarantee it that I put all my heart and effort in building it, and my honesty of heart that I want to help other people. That somehow, somehow... what I build may help that one person. Then I thank God for enabling me for doing so, and cheer myself up with a delicious sweet bread and tea for a job well done.
+
+Truly, truly. It is that simple.
 
 ---
 ## References
