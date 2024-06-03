@@ -33,28 +33,13 @@
             }
           },
           {
-            "id": "eaf88052100cccc8",
+            "id": "d8eff566e8417a13",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Source Materials/Books/Make It Now! - Anthony Burrill.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "9be7388149532883",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Permanent Notes/Creative Works That “Somehow” Is Helping People.md",
+                "file": "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Permanent Notes/Creative Works That “Somehow” Is Helping People.md",
+                "file": "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Permanent Notes/Creative Works That “Somehow” Is Helping People.md",
+                "file": "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Permanent Notes/Creative Works That “Somehow” Is Helping People.md"
+                "file": "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md"
               }
             }
           }
@@ -191,10 +176,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9be7388149532883",
+  "active": "d8eff566e8417a13",
   "lastOpenFiles": [
-    "02 - Source Materials/Books/Make It Now! - Anthony Burrill.md",
     "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
+    "02 - Source Materials/Books/Make It Now! - Anthony Burrill.md",
+    "03 - Tags/flow.md",
+    "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
     "06 - Permanent Notes/Creative Works That “Somehow” Is Helping People.md",
     "03 - Tags/creativity.md",
     "02 - Source Materials/Video Tutorials/Figma Tutorial A Crash Course for Beginners - Bring Your Own Laptop.md",
@@ -218,8 +205,6 @@
     "06 - Permanent Notes/The Importance of Feedback Loops in the Attaintment of Mastery.md",
     "03 - Tags/mastery.md",
     "06 - Permanent Notes/Focus and Attention According to Context.md",
-    "06 - Permanent Notes/Multitasking Is Not a Sign of Productivity.md",
-    "06 - Permanent Notes/The Decreasing Focus in an Increasingly Fast World.md",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",
     "02 - Source Materials/Books",
