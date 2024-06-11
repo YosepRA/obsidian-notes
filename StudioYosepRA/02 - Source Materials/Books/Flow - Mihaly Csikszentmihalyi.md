@@ -105,3 +105,9 @@ It's not to say that we should ignore any external forces. But understand that t
 As we live, understand that we don't have to allow ourselves to be happy only in the future and not today. It's not to say that we chase for instant gratification every time, but rather it's totally okay for us to breathe and be happy today. It's okay for us to experience life as it is going and be content with it.
 
 
+**p54**
+"How can it help a person learn to rid himself of anxieties and fears and thus become free of the controls of society, whose rewards he can now take or leave? As suggested before, the way is through control over consciousness, which in turn leads to control over the quality of experience."
+
+Though I don't agree that we have to be a control-freak in whatever way possible, I do agree that it's essential to understand that we are our own ally. To understand more about ourselves, we need to be conscious of him. I believe when we live centrally to ourselves, life can be an authentic one, where you don't have to hide anything from anyone. 
+
+And that brings peace of mind because you are no longer attached to external reward or system to determine your life experience.

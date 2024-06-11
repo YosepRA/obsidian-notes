@@ -18,50 +18,22 @@
             }
           },
           {
-            "id": "2021f18be4a2755b",
+            "id": "bfaeb599e86de1db",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "d8eff566e8417a13",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2ac418f93810f848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Permanent Notes/Live for Myself.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Permanent Notes/Live for Myself.md",
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Permanent Notes/Live for Myself.md",
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Permanent Notes/Live for Myself.md"
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md"
               }
             }
           }
@@ -189,13 +161,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ac418f93810f848",
+  "active": "bfaeb599e86de1db",
   "lastOpenFiles": [
-    "06 - Permanent Notes/Live for Myself.md",
+    "06 - Permanent Notes/Confidence in Our Ability to Live, and Our Rights to Be Happy.md",
+    "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
+    "03 - Tags/self-esteem.md",
+    "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
     "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
+    "06 - Permanent Notes/Understand and Believe In Yourself, for He Is One of Your First Allies.md",
+    "06 - Permanent Notes/Live for Myself.md",
     "06 - Permanent Notes/Let My Life Becomes My Little Gratitude for Your Everlasting Love to Me.md",
     "03 - Tags/God.md",
-    "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
     "02 - Source Materials/Books/Make It Now! - Anthony Burrill.md",
     "03 - Tags/flow.md",
     "06 - Permanent Notes/Creative Works That “Somehow” Is Helping People.md",
@@ -214,10 +190,6 @@
     "06 - Permanent Notes/The Thin Line Between Open-Mindedness and Truth Bias.md",
     "06 - Permanent Notes/Maintaining Objective View on the Text Which We Are Reading.md",
     "03 - Tags/how to study.md",
-    "06 - Permanent Notes/Good Questions Will Come After You Have Explored Enough.md",
-    "06 - Permanent Notes/The Tiresome of Decision Making in a Study System.md",
-    "06 - Permanent Notes/Blissful Life Was Never the Answer.md",
-    "03 - Tags/the virtue of suffering.md",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",
     "02 - Source Materials/Books",
