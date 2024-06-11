@@ -45,3 +45,41 @@ It's funny because the very thing that I often say is happening to me. How can I
 Whenever I had the courage to try something difficult. And once I found myself succeeding in the challenge which I set myself, I feel a sense of accomplishment that cannot be described by words. After that, doing the same difficult thing is never as difficult as my first attempt, not even as difficult as I once feared it to be.
 
 The more I challenge myself and the more I be courageous in the face of such challenges, I should have had more answers and wisdoms rather than doubt and worries like I do now. I'm supposed to understand this point already, and yet I willingly chose to remain in my safety.
+
+
+**p8**
+"There is no greater barrier to romantic happiness than the fear that I am undeserving of love and that my destiny is to be hurt. Such fears give birth to self-fulfilling prophecies."
+
+"When we 'know' we are doomed, we behave in ways to make reality conform to our 'knowledge.' \[…] Since our 'knowledge' is not to be doubted or questioned, it is the facts that have to be altered: hence self-sabotage."
+
+When you think of undeserving of love (or anything, really), then how can you expect yourself to be loved? Self-fulfilling prophecies. If we believe in anything and we continually repeat it both in our mind and how we act, these behaviors will turn your seemingly unconscious thoughts into reality.
+
+
+**p10**
+"The tragedy of many people's lives is that, given a choice between being 'right' and having an opportunity to be happy, they invariably choose being 'right.' That is the one ultimate satisfaction they allow themselves."
+
+It is truly a tragedy. We feel better to be proven right than being happy. If I think I'm insufficient to face life challenges, then the very thing I believe turns out to be reality, then I feel justified for being right. "Oh, I've always know this is going to happen anyway." We mask our disappointment and sadness with a sense of relief for being right.
+
+
+**p11**
+"I may read books on the subject, participate in seminars, attend lectures, or enter psychotherapy with the announced aim of being happy *in the future.* But not now; not today. The possibility of happiness in the present is too terrifyingly immediate."
+
+It's always bread and jam tomorrow, never bread and jam today. It's always in the future will we feel happy. But not today. Being happy today is wrong, for whatever reason.
+
+When I believe that I don't deserve the good things in life, I'd often become allergic towards happiness. Whenever I feel happy, I feel something is wrong. It's wrong because it goes against what is "right" in my mind. And what is right at this moment is that I don't deserve to have the good things in life. However, I do deserve the good things later in the future. No matter when it exactly is, but surely in the future. Somewhere, whenever.
+
+Again, it's a twisted believe and I'm working on it. And sure, it takes more for me to pep talk myself out of it with some cheesy line such as "You can do it" or "You deserve to be happy." I need action more than talks. For action speaks louder for my convictions than whatever comes out of my mouth.
+
+
+**p11**
+"What is required for many of us, paradoxical though it may sound, is the courage to tolerate happiness without self-sabotage."
+
+Yes, this is exactly it. Have the courage to be happy and accept what the good thing may come to you. It's okay to be happy right here and now. There is no need to feel wrong or undeserving for it.
+
+
+**p14**
+"When we doubt our minds, we tend to discount its products. If we fear intellectual self-assertiveness, perhaps associating it with loss of love, we mute our intelligence. We dread being visible; so we make ourselves invisible, then suffer because no one sees us."
+
+One of the worst feelings to have is when we doubt our own minds. Whenever an idea pops up in my brain, I would ask myself "Who are you to have an idea? Oh, do you really think your idea is good? How cute."
+
+When I continue to undermine or disrespect my own mind, it's inevitable that I will grow and see myself as unreliable. Why would I rely on my own brain who can only spout nonsense, while the fact is it's my fault that I continue to acknowledge the products of my brain.

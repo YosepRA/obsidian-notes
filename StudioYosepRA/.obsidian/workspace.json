@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Permanent Notes/One Courageous Step Is One Vote for Your Wellbeing.md",
+                "file": "06 - Permanent Notes/The Tragedy of Choosing to Be ”Right” Than to Be ”Happy”.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Permanent Notes/One Courageous Step Is One Vote for Your Wellbeing.md",
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Permanent Notes/One Courageous Step Is One Vote for Your Wellbeing.md",
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Permanent Notes/One Courageous Step Is One Vote for Your Wellbeing.md"
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md"
               }
             }
           }
@@ -174,8 +174,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d3f130d747807de",
+  "active": "bfaeb599e86de1db",
   "lastOpenFiles": [
+    "06 - Permanent Notes/The Tragedy of Choosing to Be ”Right” Than to Be ”Happy”.md",
     "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
     "06 - Permanent Notes/One Courageous Step Is One Vote for Your Wellbeing.md",
     "06 - Permanent Notes/Confidence in Our Ability to Live, and Our Rights to Be Happy.md",
@@ -202,7 +203,6 @@
     "03 - Tags/computer science.md",
     "03 - Tags/software engineering.md",
     "06 - Permanent Notes/The Thin Line Between Open-Mindedness and Truth Bias.md",
-    "06 - Permanent Notes/Maintaining Objective View on the Text Which We Are Reading.md",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",
     "02 - Source Materials/Books",
