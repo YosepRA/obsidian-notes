@@ -82,4 +82,26 @@ Yes, this is exactly it. Have the courage to be happy and accept what the good t
 
 One of the worst feelings to have is when we doubt our own minds. Whenever an idea pops up in my brain, I would ask myself "Who are you to have an idea? Oh, do you really think your idea is good? How cute."
 
-When I continue to undermine or disrespect my own mind, it's inevitable that I will grow and see myself as unreliable. Why would I rely on my own brain who can only spout nonsense, while the fact is it's my fault that I continue to acknowledge the products of my brain.
+When I continue to undermine or disrespect my own mind, it's inevitable that I will grow and see myself as unreliable. Why would I rely on my own brain who can only spout nonsense, while the fact is it's my fault that I continue to not acknowledge the products of my brain.
+
+
+**p14**
+"Self-esteem creates a set of implicit expectations about what is possible and appropriate to us. These expectations tend to generate the actions that turn them into realities. And the realities confirm and strengthen the original beliefs. Self-esteem, high or low, tends to be a generator of self-fulfilling prophecies."
+
+Talking about self-fulfilling prophecies. That which we believe and have conviction on *is* our reality. If we convict ourselves to be someone who is incapable and insufficient to face life, then it shall become our reality.
+
+How can we be something we think we are not? How can I be a capable and reliable person to myself if I genuinely believe that I'm not good enough for life on earth? There must be a fire when there is smoke. There must be a cause of an effect. There must be beliefs and convictions of an action.
+
+
+**p14**
+"What we make an effort to learn and what we achieve is based, at least in part, on what we think is possible and appropriate to us."
+
+When we genuinely believe that something is possible, then it's a half-work done. The rest depends on your honest effort. 
+
+I, for example, believe that being a good software engineer isn't outside of my reach. I never had the privilege to attend computer science college. However, I truly believe that I can reach a satisfying height for myself when it comes to mastering software engineering and computer science. 
+
+I don't think I'm trapped in the hole of Dunning-Kruger effect either, because I truly understand how vast the world of software engineering is. So vast that I won't have enough time and energy to study and understand it all in my short life span.
+
+My halted progress at this moment however is the result of my indecision and fear about life in general than my convictions about my abilities to pursuit this journey. Therefore. I pray that I could come in peace with myself and restart this journey with an earnest and clear heart. 
+
+
