@@ -105,3 +105,23 @@ I don't think I'm trapped in the hole of Dunning-Kruger effect either, because I
 My halted progress at this moment however is the result of my indecision and fear about life in general than my convictions about my abilities to pursuit this journey. Therefore. I pray that I could come in peace with myself and restart this journey with an earnest and clear heart. 
 
 
+**p18**
+"When self-esteem is low, \[…] We tend to be more influenced by the desire to avoid pain than to experience joy. Negatives have more power over us than positives. If we do not believe in ourselves, neither in our efficacy nor in our goodness, the universe is a frightening place."
+
+Indeed. If you can't rely on yourself, the world is a frightening place. Without being able to rely on oneself, we would experience the true meaning of loneness, for there is literally no one there.
+
+However, when you can rely on yourself, at least you will have yourself as your first ally in this world. Of course, as a Christian, my first and foremost ally is my Lord God in the form of His Spirit who resides within me and who is always with me all the time. But, to have one other ally in myself whom I can rely on to tackle life's challenges, it would simply be a bliss. It won't even be an exaggeration that if I have peace with God and myself, I could tackle whatever challenges this life may throw at me, as long as God wills it, of course.
+
+I mean, wouldn't it be cool that in the face of a daunting task, I could just say "bring it on"?
+
+
+**p20**
+"When we have unconflicted self-esteem, joy is our motor, not fear. It is happiness that we wish to experience, not suffering that we wish to avoid. Our purpose is self-expression, not self-avoidance or self-justification. Our motive is not to 'prove' our worth but to live our possibilities."
+
+"If my aim is to prove I am 'enough,' the project goes on to infinity, because the battle was already lost on the day I conceded the issue was debatable."
+
+Why is it that we are often driven by our fear? Fear of being not good enough is the biggest fear for me. Whatever I do, I based it on this fear. I do what I do because I want to somehow "prove" something, to anyone else and to myself. Because I believed that once I proved that I'm good enough, I can feel at peace. While the reality, I never know how much amounts to "enough."
+
+When my motivation of action is based on fear, it's hard for me to feel any joy from it. Even if I am able to build the most sophisticated app, if the motivation for it is to prove someone wrong, then I wouldn't be happy about this achievement. Heck, even if I use fear as my motivation, I don't think I could move that far anyway.
+
+The joy of expression. This is something that I wish to learn more about. What does it mean to express my thoughts because I'm joyful of it and I wish to share it. Perhaps this way, then being a creative person won't be as hard as I am right now.
