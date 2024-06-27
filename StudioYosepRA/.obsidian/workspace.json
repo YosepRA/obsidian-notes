@@ -31,22 +31,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8645ae7aad23be80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Permanent Notes/It Is Truly a Simple Desire to Live After All.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Permanent Notes/It Is Truly a Simple Desire to Live After All.md",
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Permanent Notes/It Is Truly a Simple Desire to Live After All.md",
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Permanent Notes/It Is Truly a Simple Desire to Live After All.md"
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md"
               }
             }
           }
@@ -174,8 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8645ae7aad23be80",
+  "active": "bfaeb599e86de1db",
   "lastOpenFiles": [
+    "06 - Permanent Notes/The ”==” and ”===” Dilemma.md",
+    "02 - Source Materials/Books/You Don't Know JS - Kyle Simpson.md",
+    "03 - Tags/javascript.md",
     "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
     "06 - Permanent Notes/It Is Truly a Simple Desire to Live After All.md",
     "06 - Permanent Notes/We Can Only Believe What Is Possible and Appropriate for Us.md",
@@ -200,9 +190,6 @@
     "03 - Tags/ui-ux design.md",
     "ui/ux.md",
     "ui",
-    "06 - Permanent Notes/The Satisfying Kind of “Fun”.md",
-    "03 - Tags/social media.md",
-    "06 - Permanent Notes/Life Is Too Short to Not Do Things That You Like.md",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",
     "02 - Source Materials/Books",
