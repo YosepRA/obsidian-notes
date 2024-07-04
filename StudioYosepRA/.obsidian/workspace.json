@@ -33,12 +33,25 @@
             }
           },
           {
-            "id": "70e6c805822cb128",
+            "id": "e8015da2f00f035a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Permanent Notes/Who I Am.md",
+                "file": "01 - Rough Notes/What Happens Today.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8f2bc8f2de7ae97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Permanent Notes/First Blog Post, and What I Will Write.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Permanent Notes/Who I Am.md",
+                "file": "06 - Permanent Notes/First Blog Post, and What I Will Write.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Permanent Notes/Who I Am.md",
+                "file": "06 - Permanent Notes/First Blog Post, and What I Will Write.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Permanent Notes/Who I Am.md"
+                "file": "06 - Permanent Notes/First Blog Post, and What I Will Write.md"
               }
             }
           }
@@ -174,10 +187,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70e6c805822cb128",
+  "active": "b8f2bc8f2de7ae97",
   "lastOpenFiles": [
-    "06 - Permanent Notes/Who I Am.md",
+    "01 - Rough Notes/What Happens Today.md",
+    "06 - Permanent Notes/First Blog Post, and What I Will Write.md",
+    "03 - Tags/blog.md",
+    "06 - Permanent Notes/Untitled.md",
     "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
+    "06 - Permanent Notes/Who I Am.md",
     "06 - Permanent Notes/The ”==” and ”===” Dilemma.md",
     "02 - Source Materials/Books/You Don't Know JS - Kyle Simpson.md",
     "03 - Tags/javascript.md",
@@ -198,10 +215,6 @@
     "03 - Tags/flow.md",
     "06 - Permanent Notes/Creative Works That “Somehow” Is Helping People.md",
     "03 - Tags/creativity.md",
-    "02 - Source Materials/Video Tutorials/Figma Tutorial A Crash Course for Beginners - Bring Your Own Laptop.md",
-    "02 - Source Materials/Books/The Art of Computer Programming - Donald E. Knuth.md",
-    "03 - Tags/graphic design.md",
-    "03 - Tags/ui-ux design.md",
     "ui",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",
