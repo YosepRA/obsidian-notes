@@ -31,9 +31,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "70e6c805822cb128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Permanent Notes/Who I Am.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
+                "file": "06 - Permanent Notes/Who I Am.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
+                "file": "06 - Permanent Notes/Who I Am.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md"
+                "file": "06 - Permanent Notes/Who I Am.md"
               }
             }
           }
@@ -161,12 +174,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfaeb599e86de1db",
+  "active": "70e6c805822cb128",
   "lastOpenFiles": [
+    "06 - Permanent Notes/Who I Am.md",
+    "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
     "06 - Permanent Notes/The ”==” and ”===” Dilemma.md",
     "02 - Source Materials/Books/You Don't Know JS - Kyle Simpson.md",
     "03 - Tags/javascript.md",
-    "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
     "06 - Permanent Notes/It Is Truly a Simple Desire to Live After All.md",
     "06 - Permanent Notes/We Can Only Believe What Is Possible and Appropriate for Us.md",
     "06 - Permanent Notes/The Tragedy of Choosing to Be ”Right” Than to Be ”Happy”.md",
@@ -188,7 +202,6 @@
     "02 - Source Materials/Books/The Art of Computer Programming - Donald E. Knuth.md",
     "03 - Tags/graphic design.md",
     "03 - Tags/ui-ux design.md",
-    "ui/ux.md",
     "ui",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",

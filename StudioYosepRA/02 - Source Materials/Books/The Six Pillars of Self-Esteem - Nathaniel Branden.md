@@ -125,3 +125,11 @@ Why is it that we are often driven by our fear? Fear of being not good enough is
 When my motivation of action is based on fear, it's hard for me to feel any joy from it. Even if I am able to build the most sophisticated app, if the motivation for it is to prove someone wrong, then I wouldn't be happy about this achievement. Heck, even if I use fear as my motivation, I don't think I could move that far anyway.
 
 The joy of expression. This is something that I wish to learn more about. What does it mean to express my thoughts because I'm joyful of it and I wish to share it. Perhaps this way, then being a creative person won't be as hard as I am right now.
+
+
+**p24**
+"We need to know who we are and to be centered within ourselves. We need to know what matters to us; otherwise it is easy to be swept up and swept along by alien values, pursuing goals that do not nourish who we really are."
+
+How easy life would be had I know who I am, what matters to me, and I accept myself as I am.
+
+I thought I know how I am, what matters to me, and that I have accepted myself. But the struggles of life continues to push me down. I don't even know if I have the desire for life.
