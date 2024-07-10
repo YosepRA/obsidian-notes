@@ -18,13 +18,13 @@
             }
           },
           {
-            "id": "bfaeb599e86de1db",
+            "id": "93fa2662f9231801",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
+                "file": "06 - Permanent Notes/Big Magic - Elizabeth Gilbert.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,25 +33,27 @@
             }
           },
           {
-            "id": "e8015da2f00f035a",
+            "id": "5b5c2e9050bbdbb6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Rough Notes/What Happens Today.md",
+                "file": "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "b8f2bc8f2de7ae97",
+            "id": "9527ad88315af272",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Permanent Notes/First Blog Post, and What I Will Write.md",
+                "file": "06 - Permanent Notes/The Spirit of Creativity and a Willing Human Agent.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Permanent Notes/First Blog Post, and What I Will Write.md",
+                "file": "06 - Permanent Notes/Big Magic - Elizabeth Gilbert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Permanent Notes/First Blog Post, and What I Will Write.md",
+                "file": "06 - Permanent Notes/Big Magic - Elizabeth Gilbert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Permanent Notes/First Blog Post, and What I Will Write.md"
+                "file": "06 - Permanent Notes/Big Magic - Elizabeth Gilbert.md"
               }
             }
           }
@@ -187,14 +189,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8f2bc8f2de7ae97",
+  "active": "93fa2662f9231801",
   "lastOpenFiles": [
+    "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
+    "06 - Permanent Notes/The Spirit of Creativity and a Willing Human Agent.md",
+    "06 - Permanent Notes/Big Magic - Elizabeth Gilbert.md",
+    "06 - Permanent Notes/Creativity as a Mean to Fight the Ruthless World.md",
+    "06 - Permanent Notes/Creativity and Means to Make a Living.md",
+    "06 - Permanent Notes/Who I Am.md",
+    "03 - Tags/creativity.md",
+    "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
     "01 - Rough Notes/What Happens Today.md",
     "06 - Permanent Notes/First Blog Post, and What I Will Write.md",
     "03 - Tags/blog.md",
     "06 - Permanent Notes/Untitled.md",
-    "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
-    "06 - Permanent Notes/Who I Am.md",
     "06 - Permanent Notes/The ”==” and ”===” Dilemma.md",
     "02 - Source Materials/Books/You Don't Know JS - Kyle Simpson.md",
     "03 - Tags/javascript.md",
@@ -209,12 +217,6 @@
     "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
     "06 - Permanent Notes/Understand and Believe In Yourself, for He Is One of Your First Allies.md",
     "06 - Permanent Notes/Live for Myself.md",
-    "06 - Permanent Notes/Let My Life Becomes My Little Gratitude for Your Everlasting Love to Me.md",
-    "03 - Tags/God.md",
-    "02 - Source Materials/Books/Make It Now! - Anthony Burrill.md",
-    "03 - Tags/flow.md",
-    "06 - Permanent Notes/Creative Works That “Somehow” Is Helping People.md",
-    "03 - Tags/creativity.md",
     "ui",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",

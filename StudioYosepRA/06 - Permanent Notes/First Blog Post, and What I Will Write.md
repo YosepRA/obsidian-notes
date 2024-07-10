@@ -27,7 +27,7 @@ For this, I think I would keep on writing. And if there is a misunderstanding, I
 
 There comes my conclusion. I would write daily posts on this site. I may not have a job at the moment of writing, but if I do in the future, I would keep on writing what happens on that day.
 
-*(P.S. I wrote this post prior to the release of blogging feature for StudioYosepRA. Therefore, I won't post this until I have it ready and deployed on my website. And I would keep on stacking daily posts until the feature is released.)*
+*(P.S. I wrote this post prior to the release of the blogging feature for StudioYosepRA. Therefore, I won't post this until I have it ready and deployed on my website. And I would keep on stacking daily posts until the feature is released.)*
 
 ---
 ## References
