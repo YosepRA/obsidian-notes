@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Permanent Notes/Big Magic - Elizabeth Gilbert.md",
+                "file": "02 - Source Materials/Books/Big Magic - Elizabeth Gilbert.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,19 +45,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "9527ad88315af272",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Permanent Notes/The Spirit of Creativity and a Willing Human Agent.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           }
         ],
@@ -128,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Permanent Notes/Big Magic - Elizabeth Gilbert.md",
+                "file": "02 - Source Materials/Books/Big Magic - Elizabeth Gilbert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Permanent Notes/Big Magic - Elizabeth Gilbert.md",
+                "file": "02 - Source Materials/Books/Big Magic - Elizabeth Gilbert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Permanent Notes/Big Magic - Elizabeth Gilbert.md"
+                "file": "02 - Source Materials/Books/Big Magic - Elizabeth Gilbert.md"
               }
             }
           }
@@ -192,8 +179,10 @@
   "active": "93fa2662f9231801",
   "lastOpenFiles": [
     "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
+    "02 - Source Materials/Books/Big Magic - Elizabeth Gilbert.md",
+    "06 - Permanent Notes/Taking It One Tiny Step at a Time.md",
+    "06 - Permanent Notes/Good Men Works.md",
     "06 - Permanent Notes/The Spirit of Creativity and a Willing Human Agent.md",
-    "06 - Permanent Notes/Big Magic - Elizabeth Gilbert.md",
     "06 - Permanent Notes/Creativity as a Mean to Fight the Ruthless World.md",
     "06 - Permanent Notes/Creativity and Means to Make a Living.md",
     "06 - Permanent Notes/Who I Am.md",
@@ -215,8 +204,6 @@
     "03 - Tags/self-esteem.md",
     "02 - Source Materials/Books/How to Take Smart Notes - Sönke Ahrens.md",
     "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
-    "06 - Permanent Notes/Understand and Believe In Yourself, for He Is One of Your First Allies.md",
-    "06 - Permanent Notes/Live for Myself.md",
     "ui",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",

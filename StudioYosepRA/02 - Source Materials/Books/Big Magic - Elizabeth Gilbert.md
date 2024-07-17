@@ -74,3 +74,49 @@ Again, I don't care that much as to debate over it. However, I know that it is n
 From this view, I may have been leaning towards the Muses after all. And I'm okay with that. I believe in God and I know His voice. Therefore, it is not strange if said voices is just simply the voice of the Spirit.
 
 Lastly, one thing I clearly know is that whenever I do listen to these voices, whenever I decide to help them and create their ideas, my heart is filled to the brim, and I feel the satisfaction of life in its purest form. Not because I gain something material from it, but rather a hollow place in my heart is just filled with something that it yearns for.
+
+
+**p42**
+"You can dare to be pleased sometimes with what you have created. (And if a project doesn’t work out, you can always think of it as having been a worthwhile and constructive experiment.)"
+
+Treating your creative work as simply play. And if the work somehow fails, then think of it as an experiment. Therefore, nothing is wasted.
+
+What a positive outlook to have, isn't it?
+
+
+**p42**
+"You can measure your worth by your dedication to your path, not by your successes or failures."
+
+Every day, we compare ourselves to our peers. Which one of us is better at their works? And often, we would be proud of ourselves because we have done better, albeit often unhealthily proud.
+
+Instead of that, what about feeling grateful of the dedication each of us put into our works? Putting oftentimes stupid competition aside, to have the fire of dedication within one's heart is so much more valuable than cheap pride that comes from superficial achievements.
+
+
+**p46**
+"\[…] but all the good ideas feel daunting at first, so I proceeded."
+
+Ideas are always daunting at first. There seem to be a lot that is required to do. However, once you take the courage to take the first step, and let that step carry you forward, you will see that it is not as daunting as you first thought it would.
+
+Once again, it all boils down on the courage to take the first step.
+
+
+**p46**
+"I then did what you do when you get serious about a project or a pursuit: I cleared space for it."
+
+When you agree with the Spirit, then commit yourself to it and *make a space* for both of you to work on it.
+
+
+**p46**
+"\[…] I allowed myself to begin dreaming of this new world. And in that space, more ideas began to arrive, and the outlines of the story started to take shape."
+
+Once you get yourself to work and make it the dominant force that is occupying your mind and daily life, then you will find yourself *provided* with new and developed ideas compared to the initial ones that you get. The idea will grow more mature over time and it will then form a healthy feedback loop where you and the Spirit are working together to continually expand your works.
+
+It is again a proof of "dominating thoughts" that is written in *The Law of Success* by Napoleon Hill. What you put your mind into is what is going to gain depth into. Only by dedicating your time and effort to a certain activity do you find more avenue of ideas and providence that will enrich your works going forward.
+
+
+**p50**
+"Because this is the other side of the contract with creativity: If inspiration is allowed to unexpectedly enter you, it is also allowed to unexpectedly exit you."
+
+Ideas can come, and they can go away. The Spirit can choose to remain patient, or He can leave the idea to someone else down the road.
+
+There is the feeling of the ink running dry as in writers were no longer able to continue their stories. It may be the result of circumstances that makes them unwilling or unable to communicate well with the Spirit. And when the Spirit is no longer feel heard or He deemed it no longer possible to connect with one particular human agent, then it can choose to move away to yet another human.
