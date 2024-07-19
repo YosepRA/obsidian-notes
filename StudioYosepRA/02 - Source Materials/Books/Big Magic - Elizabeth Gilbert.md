@@ -120,3 +120,11 @@ It is again a proof of "dominating thoughts" that is written in *The Law of Succ
 Ideas can come, and they can go away. The Spirit can choose to remain patient, or He can leave the idea to someone else down the road.
 
 There is the feeling of the ink running dry as in writers were no longer able to continue their stories. It may be the result of circumstances that makes them unwilling or unable to communicate well with the Spirit. And when the Spirit is no longer feel heard or He deemed it no longer possible to connect with one particular human agent, then it can choose to move away to yet another human.
+
+
+**p61**
+"\[…] you didn’t deliver! You didn’t show up ready enough, or fast enough, or openly enough for the idea to take hold within you and complete itself. Therefore, the idea went hunting for a new partner, and somebody else got to make the thing."
+
+Have you ever find that your ideas that once cross your mind are made by other people? It was as if both of you are having the same idea altogether. You may feel vexed by it for the thought of "it could've been mine," while the reality is that it was never yours to begin with.
+
+When you are not receptive or responsible enough to be a human agent for an idea, then the idea could definitely leave you for yet another person. Imagine you are struck by an idea today that you could very well work on, but yet you choose not to. Is there an obligation for the Spirit who offered you the idea to stay with you while you are completely ignoring it? Of course not.
