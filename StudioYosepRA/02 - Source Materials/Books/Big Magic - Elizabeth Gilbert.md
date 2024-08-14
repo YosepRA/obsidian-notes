@@ -128,3 +128,5 @@ There is the feeling of the ink running dry as in writers were no longer able to
 Have you ever find that your ideas that once cross your mind are made by other people? It was as if both of you are having the same idea altogether. You may feel vexed by it for the thought of "it could've been mine," while the reality is that it was never yours to begin with.
 
 When you are not receptive or responsible enough to be a human agent for an idea, then the idea could definitely leave you for yet another person. Imagine you are struck by an idea today that you could very well work on, but yet you choose not to. Is there an obligation for the Spirit who offered you the idea to stay with you while you are completely ignoring it? Of course not.
+
+

@@ -8,23 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94c4fcc848d27593",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "93fa2662f9231801",
+            "id": "4b47bd29c97e68c8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Source Materials/Books/Big Magic - Elizabeth Gilbert.md",
+                "file": "01 - Rough Notes/What Happens Today.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "bcee624ad72e4928",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Source Materials/Books/Atomic Habit - James Clear.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -48,12 +53,12 @@
             }
           },
           {
-            "id": "0ce063f7589a60d4",
+            "id": "e9b4f26b308640f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Permanent Notes/The Good Fruits in the Eyes of God.md",
+                "file": "02 - Source Materials/Books/Catechism of the Catholic Church.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Permanent Notes/The Good Fruits in the Eyes of God.md",
+                "file": "02 - Source Materials/Books/Catechism of the Catholic Church.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Permanent Notes/The Good Fruits in the Eyes of God.md",
+                "file": "02 - Source Materials/Books/Catechism of the Catholic Church.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Permanent Notes/The Good Fruits in the Eyes of God.md"
+                "file": "02 - Source Materials/Books/Catechism of the Catholic Church.md"
               }
             }
           }
@@ -189,34 +194,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ce063f7589a60d4",
+  "active": "e9b4f26b308640f6",
   "lastOpenFiles": [
-    "06 - Permanent Notes/The Good Fruits in the Eyes of God.md",
+    "06 - Permanent Notes/Creativity Without Compassion Is Useless.md",
     "01 - Rough Notes/What Happens Today.md",
+    "03 - Tags/creativity.md",
+    "06 - Permanent Notes/Creative Works That “Somehow” Is Helping People.md",
     "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
+    "02 - Source Materials/Books/Catechism of the Catholic Church.md",
+    "03 - Tags/Catholicism.md",
+    "06 - Permanent Notes/For the Amount of Wisdom That God Has Given Me, It Should Have Been More Than Enough.md",
+    "06 - Permanent Notes/A Necessary Detachment to the Work.md",
+    "02 - Source Materials/Books/Atomic Habit - James Clear.md",
+    "02 - Source Materials/Books/Big Magic - Elizabeth Gilbert.md",
+    "06 - Permanent Notes/Who I Am.md",
+    "06 - Permanent Notes/The Good Fruits in the Eyes of God.md",
     "06 - Permanent Notes/CS 61A, The Structure and Interpretation of Computer Programs, UC Berkeley, Brian Harvey, Spring 2010.md",
     "03 - Tags/sicp.md",
     "06 - Permanent Notes/Sincere Worker of the Spirit.md",
     "06 - Permanent Notes/The Spirit of Creativity and a Willing Human Agent.md",
     "03 - Tags/God.md",
-    "02 - Source Materials/Books/Big Magic - Elizabeth Gilbert.md",
     "06 - Permanent Notes/Taking It One Tiny Step at a Time.md",
     "06 - Permanent Notes/Good Men Works.md",
     "06 - Permanent Notes/Creativity as a Mean to Fight the Ruthless World.md",
     "06 - Permanent Notes/Creativity and Means to Make a Living.md",
-    "06 - Permanent Notes/Who I Am.md",
-    "03 - Tags/creativity.md",
     "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
     "06 - Permanent Notes/First Blog Post, and What I Will Write.md",
     "03 - Tags/blog.md",
     "06 - Permanent Notes/Untitled.md",
-    "06 - Permanent Notes/The ”==” and ”===” Dilemma.md",
-    "02 - Source Materials/Books/You Don't Know JS - Kyle Simpson.md",
-    "03 - Tags/javascript.md",
-    "06 - Permanent Notes/It Is Truly a Simple Desire to Live After All.md",
-    "06 - Permanent Notes/We Can Only Believe What Is Possible and Appropriate for Us.md",
-    "06 - Permanent Notes/The Tragedy of Choosing to Be ”Right” Than to Be ”Happy”.md",
-    "06 - Permanent Notes/Self-Fulfilling Prophecies. That Which You Believe Shall Be Your Reality..md",
     "ui",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",
