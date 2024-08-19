@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "bcee624ad72e4928",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Source Materials/Books/Atomic Habit - James Clear.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "5b5c2e9050bbdbb6",
             "type": "leaf",
             "pinned": true,
@@ -51,37 +36,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "cde466727871458b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Permanent Notes/Sharing Our Creative Works as an Introvert.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "aaf14b0a0388b25e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Source Materials/Books/Quiet - Susan Cain.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Permanent Notes/Sharing Our Creative Works as an Introvert.md",
+                "file": "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Permanent Notes/Sharing Our Creative Works as an Introvert.md",
+                "file": "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Permanent Notes/Sharing Our Creative Works as an Introvert.md"
+                "file": "06 - Permanent Notes/A Plan to Start a YouTube Channel.md"
               }
             }
           }
@@ -209,13 +166,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cde466727871458b",
+  "active": "5b5c2e9050bbdbb6",
   "lastOpenFiles": [
-    "06 - Permanent Notes/Sharing Our Creative Works as an Introvert.md",
-    "01 - Rough Notes/What Happens Today.md",
-    "02 - Source Materials/Books/Quiet - Susan Cain.md",
-    "03 - Tags/introvert.md",
+    "06 - Permanent Notes/First Bout With React Router v6.md",
     "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
+    "06 - Permanent Notes/Aim for the Impossible, so That You Know Where to Go.md",
+    "01 - Rough Notes/What Happens Today.md",
+    "06 - Permanent Notes/2024-08-19.md",
+    "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
+    "06 - Permanent Notes/For Once, Why Don’t I Take This Life Seriously.md",
+    "02 - Source Materials/Books/Atomic Habit - James Clear.md",
+    "02 - Source Materials/Books/Quiet - Susan Cain.md",
+    "06 - Permanent Notes/Sharing Our Creative Works as an Introvert.md",
+    "03 - Tags/introvert.md",
     "02 - Source Materials/Books/Catechism of the Catholic Church.md",
     "06 - Permanent Notes/Creativity Without Compassion Is Useless.md",
     "03 - Tags/creativity.md",
@@ -223,7 +186,6 @@
     "03 - Tags/Catholicism.md",
     "06 - Permanent Notes/For the Amount of Wisdom That God Has Given Me, It Should Have Been More Than Enough.md",
     "06 - Permanent Notes/A Necessary Detachment to the Work.md",
-    "02 - Source Materials/Books/Atomic Habit - James Clear.md",
     "02 - Source Materials/Books/Big Magic - Elizabeth Gilbert.md",
     "06 - Permanent Notes/Who I Am.md",
     "06 - Permanent Notes/The Good Fruits in the Eyes of God.md",
@@ -232,11 +194,6 @@
     "06 - Permanent Notes/Sincere Worker of the Spirit.md",
     "06 - Permanent Notes/The Spirit of Creativity and a Willing Human Agent.md",
     "03 - Tags/God.md",
-    "06 - Permanent Notes/Taking It One Tiny Step at a Time.md",
-    "06 - Permanent Notes/Good Men Works.md",
-    "06 - Permanent Notes/Creativity as a Mean to Fight the Ruthless World.md",
-    "06 - Permanent Notes/Creativity and Means to Make a Living.md",
-    "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
     "ui",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",
