@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[God]] [[wholehearted life]]
+Tags: [[God]] [[life journey]]
 
 ---
 

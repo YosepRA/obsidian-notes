@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[self-esteem]] [[wholehearted life]]
+Tags: [[self-esteem]] [[life journey]]
 
 ---
 

@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[how to study]] [[honest work]] [[wholehearted life]]   
+Tags: [[how to study]] [[honest work]] [[life journey]]   
 
 ---
 ## Studying, for the Love of It, and Not for Money

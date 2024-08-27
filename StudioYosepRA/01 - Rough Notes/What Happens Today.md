@@ -17,3 +17,7 @@ List of things that happened today to serve as a short record of ideas for writi
 
 - Networking as an introvert.
 - Deliberate practice. It is not as complicated as I thought it would. You see something you want to learn, and then you choose to study it, then that is the best example of deliberate practice. So perhaps, I have overthink about deliberate practice all this long.
+
+*Wednesday, August 21, 2024*
+
+- It's called "React Router app" now.

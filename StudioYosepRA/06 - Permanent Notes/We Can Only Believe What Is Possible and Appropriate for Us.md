@@ -3,7 +3,7 @@
 
 Status: #baby 
 
-Tags: [[self-esteem]] [[wholehearted life]] [[computer science]]
+Tags: [[self-esteem]] [[life journey]] [[computer science]]
 
 ---
 

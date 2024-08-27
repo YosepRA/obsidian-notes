@@ -3,7 +3,7 @@
 
 Status: #baby 
 
-Tags: [[wholehearted life]] [[the virtue of suffering]]
+Tags: [[life journey]] [[the virtue of suffering]]
 
 ---
 

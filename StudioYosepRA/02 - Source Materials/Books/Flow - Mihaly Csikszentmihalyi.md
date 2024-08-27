@@ -111,3 +111,14 @@ As we live, understand that we don't have to allow ourselves to be happy only in
 Though I don't agree that we have to be a control-freak in whatever way possible, I do agree that it's essential to understand that we are our own ally. To understand more about ourselves, we need to be conscious of him. I believe when we live centrally to ourselves, life can be an authentic one, where you don't have to hide anything from anyone. 
 
 And that brings peace of mind because you are no longer attached to external reward or system to determine your life experience.
+
+
+**p67**
+"\[…] the shortest time it takes to discriminate between one set of bits and another is about 1/18 of a second. By using these figures one concludes that it is possible to process at most 126 bits of information per second \[…]"
+
+"\[…] the nervous system has become adept at “chunking” bits of information so that processing capacity is constantly expanded. Simple functions like adding a column of numbers or driving a car grow to be automated, leaving the mind free to deal with more data."
+
+We can only put so much attention to a certain information at any given time. Simply put, we can pay attention to what one person is saying. However, it is a tall task to pay attention to what two or three people are saying at the same time without losing any bits of context.
+
+However, human mind is also capable of storing our routines. We no longer need to consciously think of how to drive a car or write using our keyboard because we have done it too often that it becomes second nature. That way, it opens up a new space for a new activity to put our consciousness in, and develop it the same way.
+

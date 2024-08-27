@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[wholehearted life]] [[creativity]]
+Tags: [[life journey]] [[creativity]]
 
 ---
 

@@ -3,7 +3,7 @@
 
 Status: #baby 
 
-Tags: [[wholehearted life]]
+Tags: [[life journey]]
 
 ---
 
