@@ -38,12 +38,12 @@
             }
           },
           {
-            "id": "9ded94a930e03772",
+            "id": "b81e1c64b0b31dbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md"
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md"
               }
             }
           }
@@ -179,14 +179,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ded94a930e03772",
+  "active": "b81e1c64b0b31dbd",
   "lastOpenFiles": [
+    "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
+    "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
+    "03 - Tags/life journey.md",
+    "06 - Permanent Notes/It Is Futile, and It Is Okay.md",
+    "01 - Rough Notes/What Happens Today.md",
     "06 - Permanent Notes/Work on Your Backlog One Task at a Time.md",
     "06 - Permanent Notes/Active Stillness. Waiting While Working..md",
-    "03 - Tags/life journey.md",
-    "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
-    "01 - Rough Notes/What Happens Today.md",
-    "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
     "06 - Permanent Notes/First Bout With React Router v6.md",
     "06 - Permanent Notes/Aim for the Impossible, so That You Know Where to Go.md",
     "06 - Permanent Notes/2024-08-19.md",
@@ -206,7 +207,6 @@
     "06 - Permanent Notes/Who I Am.md",
     "06 - Permanent Notes/The Good Fruits in the Eyes of God.md",
     "06 - Permanent Notes/CS 61A, The Structure and Interpretation of Computer Programs, UC Berkeley, Brian Harvey, Spring 2010.md",
-    "03 - Tags/sicp.md",
     "ui",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",

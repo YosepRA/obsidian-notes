@@ -122,3 +122,4 @@ We can only put so much attention to a certain information at any given time. Si
 
 However, human mind is also capable of storing our routines. We no longer need to consciously think of how to drive a car or write using our keyboard because we have done it too often that it becomes second nature. That way, it opens up a new space for a new activity to put our consciousness in, and develop it the same way.
 
+
