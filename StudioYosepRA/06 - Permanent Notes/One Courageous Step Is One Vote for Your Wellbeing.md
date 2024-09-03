@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[self-esteem]] [[life journey]]
+Tags: [[self-esteem]] [[life journey]] [[building habits]]
 
 ---
 

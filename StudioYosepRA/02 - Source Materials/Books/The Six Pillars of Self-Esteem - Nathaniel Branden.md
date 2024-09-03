@@ -133,3 +133,65 @@ The joy of expression. This is something that I wish to learn more about. What d
 How easy life would be had I know who I am, what matters to me, and I accept myself as I am.
 
 I thought I know how I am, what matters to me, and that I have accepted myself. But the struggles of life continues to push me down. I don't even know if I have the desire for life.
+
+
+**p26**
+"Self-esteem has two interrelated components. One is a sense of basic confidence in the face of life's challenges: self-efficacy. The other is a sense of being worthy of happiness: self-respect."
+
+"Self-efficacy means confidence in the functioning of my mind, in my ability to think, understand, learn, choose, and make decisions."
+
+"Self-respect means assurance of my value; an affirmative attitude toward my right to live and to be happy."
+
+One is the conviction that I can do it; and the other is that I deserve to live, do good deeds, and receive kindness.
+
+
+**p29**
+"Can I trust my mind? Am I competent to think? Am I adequate? Am I enough? Am I a good person? Do I have integrity, that is, is there congruence between my ideals and my practice? Am I worthy of respect, love, success, happiness?"
+
+These are simple questions to ask about oneself. If you were to be your own and reliable ally, then understand yourself by asking these questions. If there is any conflict in your heart when you ask yourself these questions, then ponder over it to understand the reason.
+
+
+**p31**
+"Nature has given us an extraordinary responsibility: the option of turning the searchlight of consciousness brighter or dimmer. This is the option of seeking awareness or not bothering to seek it or actively avoiding it. The option of thinking or not thinking. This is the root of our freedom and our responsibility."
+
+What separates mankind from other creations is our ability to think. And with the ability to think comes an ability to make choices.
+
+In the face of life's challenges, do you think about facing it or running away? It's the choice we have. With the abundance of choice we makes every day as a conscious being, the ones which we choose depends on our view of ourselves and what we see as proper in life.
+
+If we see ourselves as someone who is unable to face difficult tasks, then what hope do you have to choose an option where you would face a challenge? In this situation, you would rather run away from it and pretend it never existed.
+
+On the other hand, if you see a difficult task not in a sense of doom that it may bring towards you, but rather an opportunity for you to explore, then you will be more likely to face the challenges head on with an honest heart.
+
+
+**p32**
+"The point is not that our self-esteem "should" be affected by the choices we make but rather that by our natures it must be affected."
+
+The choices we make reinforces whatever conviction we may or may not hold. Suppose you choose to laze around every day rather than working, your previous conviction that you are hard-working will be weakened. In return, your conviction will turn into a reality that you can't handle difficult tasks.
+
+
+**p34**
+"Self-efficacy is not the conviction that we can never make an error. It is the conviction that we are able to think, to judge, to know-and to correct our errors. It is trust in our mental processes and abilities."
+
+In the face of life challenges, it's not about knowing everything and can do everything perfectly. But rather, it's a conviction of our ability to *face it with courage.* The ability and courage to learn things we never know, and do things we never did before.
+
+Whether we succeed or fail must not be our primary concern. It's whether we choose to be courageous to face it or not. One thing is true, whenever you choose the path of the courageous, life at its fullest is behind that curtain.
+
+
+**p34**
+"\[…] trust in our processes-and, as a consequence, a disposition to expect success for our efforts."
+
+I think, this is the true meaning of a "can do" mentality. Being a "can do" man isn't about being able to do anything anyone ask you to do, or lying to yourself that you can do everything and know everything. 
+
+But rather, it's a conviction that even if I can't do something and don't know something, *I can learn about it.*
+
+It's a different kind of confidence which you get from your experience in doing something specific, such as being a software developer. Instead, this conviction comes from the deeper part of oneself, that even if one hasn't become a software developer, he knows that he can learn about it.
+
+
+**p37**
+"Self-respect is \[…] the conviction that our life and well-being are worth acting to support, protect, and nurture; that we are good and worthwhile and deserving of the respect of others; and that our happiness and personal fulfillment are important enough to work for."
+
+Life is a challenging affair already. But feeling unworthy of it can increase the difficulty level by several magnitudes. It's already difficult to face our daily tasks, but if at the same time you are feeling unworthy to be alive, then you are making this a whole lot more difficult that it should have been.
+
+Until you come to a point that it is okay for you to live, and it is okay for you to pursue happiness and prioritize doing works which you want to do, then your life would still be unnecessarily harder than it should have been.
+
+I'm not saying that life is easy. But being unworthy of a good life is a very unnecessary part in our walk. You better deal with it, or it will become a heavy baggage in your journey.

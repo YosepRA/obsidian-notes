@@ -49,9 +49,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cdd6566f0ffb6578",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,8 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b81e1c64b0b31dbd",
+  "active": "cdd6566f0ffb6578",
   "lastOpenFiles": [
+    "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
+    "06 - Permanent Notes/The True Meaning of ”Can Do” Mentality.md",
+    "06 - Permanent Notes/Be Courageous in the Face of Challenges.md",
+    "06 - Permanent Notes/We Can Only Believe What Is Possible and Appropriate for Us.md",
+    "06 - Permanent Notes/The Tragedy of Choosing to Be ”Right” Than to Be ”Happy”.md",
+    "06 - Permanent Notes/Self-Fulfilling Prophecies. That Which You Believe Shall Be Your Reality..md",
+    "06 - Permanent Notes/Confidence in Our Ability to Live, and Our Rights to Be Happy.md",
+    "06 - Permanent Notes/One Courageous Step Is One Vote for Your Wellbeing.md",
+    "03 - Tags/building habits.md",
     "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
     "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
     "03 - Tags/life journey.md",
@@ -198,15 +211,6 @@
     "03 - Tags/introvert.md",
     "02 - Source Materials/Books/Catechism of the Catholic Church.md",
     "06 - Permanent Notes/Creativity Without Compassion Is Useless.md",
-    "03 - Tags/creativity.md",
-    "06 - Permanent Notes/Creative Works That “Somehow” Is Helping People.md",
-    "03 - Tags/Catholicism.md",
-    "06 - Permanent Notes/For the Amount of Wisdom That God Has Given Me, It Should Have Been More Than Enough.md",
-    "06 - Permanent Notes/A Necessary Detachment to the Work.md",
-    "02 - Source Materials/Books/Big Magic - Elizabeth Gilbert.md",
-    "06 - Permanent Notes/Who I Am.md",
-    "06 - Permanent Notes/The Good Fruits in the Eyes of God.md",
-    "06 - Permanent Notes/CS 61A, The Structure and Interpretation of Computer Programs, UC Berkeley, Brian Harvey, Spring 2010.md",
     "ui",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",
