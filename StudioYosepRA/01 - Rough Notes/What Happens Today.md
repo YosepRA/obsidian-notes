@@ -21,3 +21,7 @@ List of things that happened today to serve as a short record of ideas for writi
 *Wednesday, August 21, 2024*
 
 - It's called "React Router app" now.
+
+*Wednesday, September 4, 2024*
+
+- A gap between design and implementation. Some elements in the mockup may appear bigger when implementing it in code. This is due to my inexperience in judging the size and space between different canvas sizes.

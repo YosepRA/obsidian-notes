@@ -38,7 +38,7 @@
             }
           },
           {
-            "id": "b81e1c64b0b31dbd",
+            "id": "d17ab6763966a960",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,11 +51,16 @@
             }
           },
           {
-            "id": "cdd6566f0ffb6578",
+            "id": "b5ea9e5813d97db4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "06 - Permanent Notes/The Afternoon Pages for Evaluation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -126,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "06 - Permanent Notes/The Afternoon Pages for Evaluation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "06 - Permanent Notes/The Afternoon Pages for Evaluation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "06 - Permanent Notes/The Afternoon Pages for Evaluation.md"
+              }
             }
           }
         ]
@@ -183,9 +192,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdd6566f0ffb6578",
+  "active": "b5ea9e5813d97db4",
   "lastOpenFiles": [
+    "03 - Tags/afternoon pages.md",
+    "06 - Permanent Notes/The Afternoon Pages for Evaluation.md",
     "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
+    "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
+    "01 - Rough Notes/What Happens Today.md",
+    "06 - Permanent Notes/The Ease of Natural Sleeping Cycle.md",
+    "06 - Permanent Notes/Restarting Prayer and Morning Pages Habits.md",
+    "03 - Tags/morning pages.md",
+    "MP - 2024/09/03.md",
+    "MP - 2024/09",
+    "MP - 2024",
     "06 - Permanent Notes/The True Meaning of ”Can Do” Mentality.md",
     "06 - Permanent Notes/Be Courageous in the Face of Challenges.md",
     "06 - Permanent Notes/We Can Only Believe What Is Possible and Appropriate for Us.md",
@@ -194,23 +213,15 @@
     "06 - Permanent Notes/Confidence in Our Ability to Live, and Our Rights to Be Happy.md",
     "06 - Permanent Notes/One Courageous Step Is One Vote for Your Wellbeing.md",
     "03 - Tags/building habits.md",
-    "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
     "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
     "03 - Tags/life journey.md",
     "06 - Permanent Notes/It Is Futile, and It Is Okay.md",
-    "01 - Rough Notes/What Happens Today.md",
     "06 - Permanent Notes/Work on Your Backlog One Task at a Time.md",
     "06 - Permanent Notes/Active Stillness. Waiting While Working..md",
     "06 - Permanent Notes/First Bout With React Router v6.md",
     "06 - Permanent Notes/Aim for the Impossible, so That You Know Where to Go.md",
     "06 - Permanent Notes/2024-08-19.md",
     "06 - Permanent Notes/For Once, Why Don’t I Take This Life Seriously.md",
-    "02 - Source Materials/Books/Atomic Habit - James Clear.md",
-    "02 - Source Materials/Books/Quiet - Susan Cain.md",
-    "06 - Permanent Notes/Sharing Our Creative Works as an Introvert.md",
-    "03 - Tags/introvert.md",
-    "02 - Source Materials/Books/Catechism of the Catholic Church.md",
-    "06 - Permanent Notes/Creativity Without Compassion Is Useless.md",
     "ui",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",
@@ -219,7 +230,6 @@
     "05 - Templates",
     "04 - Indexes",
     "03 - Tags",
-    "02 - Source Materials",
-    "01 - Rough Notes"
+    "02 - Source Materials"
   ]
 }
