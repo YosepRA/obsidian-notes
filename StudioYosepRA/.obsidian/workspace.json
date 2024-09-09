@@ -51,12 +51,25 @@
             }
           },
           {
-            "id": "b5ea9e5813d97db4",
+            "id": "feccd75c73487672",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Permanent Notes/The Afternoon Pages for Evaluation.md",
+                "file": "02 - Source Materials/Books/You Don't Know JS - Kyle Simpson.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f26cc36aa3ae57ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Permanent Notes/Webpack 'publicPath' and My Misunderstanding about Bundlers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Permanent Notes/The Afternoon Pages for Evaluation.md",
+                "file": "06 - Permanent Notes/Webpack 'publicPath' and My Misunderstanding about Bundlers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Permanent Notes/The Afternoon Pages for Evaluation.md",
+                "file": "06 - Permanent Notes/Webpack 'publicPath' and My Misunderstanding about Bundlers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Permanent Notes/The Afternoon Pages for Evaluation.md"
+                "file": "06 - Permanent Notes/Webpack 'publicPath' and My Misunderstanding about Bundlers.md"
               }
             }
           }
@@ -192,13 +205,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5ea9e5813d97db4",
+  "active": "f26cc36aa3ae57ca",
   "lastOpenFiles": [
-    "03 - Tags/afternoon pages.md",
-    "06 - Permanent Notes/The Afternoon Pages for Evaluation.md",
-    "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
-    "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
+    "06 - Permanent Notes/Webpack 'publicPath' and My Misunderstanding about Bundlers.md",
     "01 - Rough Notes/What Happens Today.md",
+    "02 - Source Materials/Books/You Don't Know JS - Kyle Simpson.md",
+    "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
+    "06 - Permanent Notes/Good Work and Good Rest.md",
+    "06 - Permanent Notes/Say Goodbye to Short and Toxic Content, Again.md",
+    "06 - Permanent Notes/The Afternoon Pages for Evaluation.md",
+    "03 - Tags/afternoon pages.md",
+    "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
     "06 - Permanent Notes/The Ease of Natural Sleeping Cycle.md",
     "06 - Permanent Notes/Restarting Prayer and Morning Pages Habits.md",
     "03 - Tags/morning pages.md",
@@ -218,10 +235,6 @@
     "06 - Permanent Notes/It Is Futile, and It Is Okay.md",
     "06 - Permanent Notes/Work on Your Backlog One Task at a Time.md",
     "06 - Permanent Notes/Active Stillness. Waiting While Working..md",
-    "06 - Permanent Notes/First Bout With React Router v6.md",
-    "06 - Permanent Notes/Aim for the Impossible, so That You Know Where to Go.md",
-    "06 - Permanent Notes/2024-08-19.md",
-    "06 - Permanent Notes/For Once, Why Don’t I Take This Life Seriously.md",
     "ui",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",

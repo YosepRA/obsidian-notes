@@ -5,3 +5,5 @@ Tags: [[software engineering]] [[javascript]]
 
 ---
 
+#### Vol. 2 - Scope and Closure
+

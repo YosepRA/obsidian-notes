@@ -25,3 +25,7 @@ List of things that happened today to serve as a short record of ideas for writi
 *Wednesday, September 4, 2024*
 
 - A gap between design and implementation. Some elements in the mockup may appear bigger when implementing it in code. This is due to my inexperience in judging the size and space between different canvas sizes.
+
+*Monday, September 9, 2024*
+
+- Webpack `publicPath` problems. Incorrect interpretation of Webpack as a bundler of not only JavaScript files, but also other static files, such as CSS, images, and fonts. The output folder is for *all* static files, and not only JavaScript files.
