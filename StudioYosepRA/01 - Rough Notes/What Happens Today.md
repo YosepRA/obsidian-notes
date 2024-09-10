@@ -29,3 +29,7 @@ List of things that happened today to serve as a short record of ideas for writi
 *Monday, September 9, 2024*
 
 - Webpack `publicPath` problems. Incorrect interpretation of Webpack as a bundler of not only JavaScript files, but also other static files, such as CSS, images, and fonts. The output folder is for *all* static files, and not only JavaScript files.
+
+*Tuesday, September 10, 2024*
+
+- 

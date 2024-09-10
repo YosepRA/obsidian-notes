@@ -38,19 +38,6 @@
             }
           },
           {
-            "id": "d17ab6763966a960",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "feccd75c73487672",
             "type": "leaf",
             "state": {
@@ -64,12 +51,25 @@
             }
           },
           {
-            "id": "f26cc36aa3ae57ca",
+            "id": "8da67a3eaa2356a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Permanent Notes/Webpack 'publicPath' and My Misunderstanding about Bundlers.md",
+                "file": "06 - Permanent Notes/Variable Declaration Compilation in JavaScript.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49488d10c7c4874b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Permanent Notes/It's Always Worth It to Study Seriously.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Permanent Notes/Webpack 'publicPath' and My Misunderstanding about Bundlers.md",
+                "file": "06 - Permanent Notes/It's Always Worth It to Study Seriously.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Permanent Notes/Webpack 'publicPath' and My Misunderstanding about Bundlers.md",
+                "file": "06 - Permanent Notes/It's Always Worth It to Study Seriously.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Permanent Notes/Webpack 'publicPath' and My Misunderstanding about Bundlers.md"
+                "file": "06 - Permanent Notes/It's Always Worth It to Study Seriously.md"
               }
             }
           }
@@ -205,17 +205,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f26cc36aa3ae57ca",
+  "active": "49488d10c7c4874b",
   "lastOpenFiles": [
-    "06 - Permanent Notes/Webpack 'publicPath' and My Misunderstanding about Bundlers.md",
+    "06 - Permanent Notes/It's Always Worth It to Study Seriously.md",
+    "06 - Permanent Notes/Variable Declaration Compilation in JavaScript.md",
     "01 - Rough Notes/What Happens Today.md",
     "02 - Source Materials/Books/You Don't Know JS - Kyle Simpson.md",
+    "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
+    "06 - Permanent Notes/Fruitful Day is the Key to a Healthy Life Cycle.md",
     "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
+    "06 - Permanent Notes/Webpack 'publicPath' and My Misunderstanding about Bundlers.md",
     "06 - Permanent Notes/Good Work and Good Rest.md",
     "06 - Permanent Notes/Say Goodbye to Short and Toxic Content, Again.md",
     "06 - Permanent Notes/The Afternoon Pages for Evaluation.md",
     "03 - Tags/afternoon pages.md",
-    "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
     "06 - Permanent Notes/The Ease of Natural Sleeping Cycle.md",
     "06 - Permanent Notes/Restarting Prayer and Morning Pages Habits.md",
     "03 - Tags/morning pages.md",
@@ -232,9 +235,6 @@
     "03 - Tags/building habits.md",
     "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
     "03 - Tags/life journey.md",
-    "06 - Permanent Notes/It Is Futile, and It Is Okay.md",
-    "06 - Permanent Notes/Work on Your Backlog One Task at a Time.md",
-    "06 - Permanent Notes/Active Stillness. Waiting While Working..md",
     "ui",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",
