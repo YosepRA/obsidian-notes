@@ -51,25 +51,12 @@
             }
           },
           {
-            "id": "8da67a3eaa2356a3",
+            "id": "bfac6007804c7bf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Permanent Notes/Variable Declaration Compilation in JavaScript.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49488d10c7c4874b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Permanent Notes/It's Always Worth It to Study Seriously.md",
+                "file": "06 - Permanent Notes/The Not-So-Limited Willpower.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -77,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Permanent Notes/It's Always Worth It to Study Seriously.md",
+                "file": "06 - Permanent Notes/The Not-So-Limited Willpower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Permanent Notes/It's Always Worth It to Study Seriously.md",
+                "file": "06 - Permanent Notes/The Not-So-Limited Willpower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Permanent Notes/It's Always Worth It to Study Seriously.md"
+                "file": "06 - Permanent Notes/The Not-So-Limited Willpower.md"
               }
             }
           }
@@ -205,12 +192,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49488d10c7c4874b",
+  "active": "bfac6007804c7bf7",
   "lastOpenFiles": [
-    "06 - Permanent Notes/It's Always Worth It to Study Seriously.md",
-    "06 - Permanent Notes/Variable Declaration Compilation in JavaScript.md",
-    "01 - Rough Notes/What Happens Today.md",
+    "06 - Permanent Notes/Untitled.md",
+    "06 - Permanent Notes/The Not-So-Limited Willpower.md",
     "02 - Source Materials/Books/You Don't Know JS - Kyle Simpson.md",
+    "06 - Permanent Notes/Building Consistency with Pomodoro Timer.md",
+    "06 - Permanent Notes/Variable Declaration Compilation in JavaScript.md",
+    "06 - Permanent Notes/It's Always Worth It to Study Seriously.md",
+    "01 - Rough Notes/What Happens Today.md",
     "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
     "06 - Permanent Notes/Fruitful Day is the Key to a Healthy Life Cycle.md",
     "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
@@ -232,9 +222,6 @@
     "06 - Permanent Notes/Self-Fulfilling Prophecies. That Which You Believe Shall Be Your Reality..md",
     "06 - Permanent Notes/Confidence in Our Ability to Live, and Our Rights to Be Happy.md",
     "06 - Permanent Notes/One Courageous Step Is One Vote for Your Wellbeing.md",
-    "03 - Tags/building habits.md",
-    "02 - Source Materials/Books/Flow - Mihaly Csikszentmihalyi.md",
-    "03 - Tags/life journey.md",
     "ui",
     "109378242_p0.png",
     "02 - Source Materials/Video Tutorials",
