@@ -195,3 +195,5 @@ Life is a challenging affair already. But feeling unworthy of it can increase th
 Until you come to a point that it is okay for you to live, and it is okay for you to pursue happiness and prioritize doing works which you want to do, then your life would still be unnecessarily harder than it should have been.
 
 I'm not saying that life is easy. But being unworthy of a good life is a very unnecessary part in our walk. You better deal with it, or it will become a heavy baggage in your journey.
+
+
