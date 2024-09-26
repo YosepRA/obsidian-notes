@@ -197,3 +197,7 @@ Until you come to a point that it is okay for you to live, and it is okay for yo
 I'm not saying that life is easy. But being unworthy of a good life is a very unnecessary part in our walk. You better deal with it, or it will become a heavy baggage in your journey.
 
 
+**p39**
+"\[…] standing up for herself, in spite of fear-was the way to build her self-respect."
+
+Standing up for oneself, in spite of fear, is the way to build one's self-respect. If we continue to get swayed by the doubts of others, then we won't get anywhere or achieve values that we care about.

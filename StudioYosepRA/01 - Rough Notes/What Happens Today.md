@@ -30,6 +30,6 @@ List of things that happened today to serve as a short record of ideas for writi
 
 - Webpack `publicPath` problems. Incorrect interpretation of Webpack as a bundler of not only JavaScript files, but also other static files, such as CSS, images, and fonts. The output folder is for *all* static files, and not only JavaScript files.
 
-*Tuesday, September 10, 2024*
+*Tuesday, September 24, 2024*
 
-- 
+- What is seen in Figma isn't always accurate in implementation. Sometimes, the font appear bigger and bolder, or even the spacing isn't as crisp as I imagine it would be. It's weird, because I always use the 100% zoom level on Figma, indicating that it is 1:1 between canvas and real monitor size.

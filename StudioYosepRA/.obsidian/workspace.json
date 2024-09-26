@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "5b5c2e9050bbdbb6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "621bd11d8c00cf3b",
             "type": "leaf",
             "state": {
@@ -51,12 +36,12 @@
             }
           },
           {
-            "id": "f2e2b3c395726fea",
+            "id": "a5689b533ddcf539",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Source Materials/Books/Man's Search for Meaning - Viktor E. Frankl.md",
+                "file": "02 - Source Materials/Books/What I Talk About When I Talk About Running - Haruki Murakami.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Source Materials/Books/Man's Search for Meaning - Viktor E. Frankl.md",
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Source Materials/Books/Man's Search for Meaning - Viktor E. Frankl.md",
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Source Materials/Books/Man's Search for Meaning - Viktor E. Frankl.md"
+                "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md"
               }
             }
           }
@@ -192,23 +177,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2e2b3c395726fea",
+  "active": "621bd11d8c00cf3b",
   "lastOpenFiles": [
+    "02 - Source Materials/Books/What I Talk About When I Talk About Running - Haruki Murakami.md",
+    "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
+    "01 - Rough Notes/What Happens Today.md",
+    "06 - Permanent Notes/What I Hold Highly in Life.md",
+    "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
+    "06 - Permanent Notes/If There Is No Love Anymore, Then So Be It.md",
+    "02 - Source Materials/Books/Man's Search for Meaning - Viktor E. Frankl.md",
     "06 - Permanent Notes/The Search for Goal Setting System That Works for Me.md",
     "06 - Permanent Notes/Men in Black is a Classic.md",
     "03 - Tags/goal setting.md",
-    "02 - Source Materials/Books/Man's Search for Meaning - Viktor E. Frankl.md",
     "06 - Permanent Notes/If I Fail, I Fail. If I Succeed, I Succeed..md",
-    "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
     "03 - Tags/fear of failure.md",
     "03 - Tags/anhedonia.md",
     "03 - Tags/apathy.md",
     "03 - Tags/depression.md",
-    "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
     "02 - Source Materials/Books/You Don't Know JS - Kyle Simpson.md",
     "03 - Tags/life journey.md",
     "06 - Permanent Notes/I Want to Keep On Living for the Sake of Kind People Out There.md",
-    "01 - Rough Notes/What Happens Today.md",
     "06 - Permanent Notes/Our Power and Right to Choose.md",
     "06 - Permanent Notes/Human Body is Made to Run.md",
     "03 - Tags/fitness.md",
@@ -217,9 +205,6 @@
     "06 - Permanent Notes/Building Consistency with Pomodoro Timer.md",
     "06 - Permanent Notes/Variable Declaration Compilation in JavaScript.md",
     "06 - Permanent Notes/It's Always Worth It to Study Seriously.md",
-    "06 - Permanent Notes/Fruitful Day is the Key to a Healthy Life Cycle.md",
-    "06 - Permanent Notes/Webpack 'publicPath' and My Misunderstanding about Bundlers.md",
-    "06 - Permanent Notes/Good Work and Good Rest.md",
     "MP - 2024/09",
     "MP - 2024",
     "ui",
