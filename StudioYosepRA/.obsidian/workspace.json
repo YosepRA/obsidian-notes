@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "621bd11d8c00cf3b",
+            "id": "75c6ff3c91e330f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5689b533ddcf539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Source Materials/Books/What I Talk About When I Talk About Running - Haruki Murakami.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -177,13 +164,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "621bd11d8c00cf3b",
+  "active": "75c6ff3c91e330f5",
   "lastOpenFiles": [
-    "02 - Source Materials/Books/What I Talk About When I Talk About Running - Haruki Murakami.md",
-    "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
+    "06 - Permanent Notes/I May Be a Mess, but at Least I Want to Be Right With God.md",
+    "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
+    "02 - Source Materials/Books/How to Stop Worrying and Start Living - Dale Carnegie.md",
     "01 - Rough Notes/What Happens Today.md",
     "06 - Permanent Notes/What I Hold Highly in Life.md",
-    "02 - Source Materials/Books/The Six Pillars of Self-Esteem - Nathaniel Branden.md",
+    "03 - Tags/life journey.md",
+    "06 - Permanent Notes/Forrest Gump.md",
+    "03 - Tags/movie review.md",
+    "02 - Source Materials/Books/What I Talk About When I Talk About Running - Haruki Murakami.md",
+    "06 - Permanent Notes/Because Sometimes, I May Need These Skills.md",
+    "06 - Permanent Notes/A Plan to Start a YouTube Channel.md",
     "06 - Permanent Notes/If There Is No Love Anymore, Then So Be It.md",
     "02 - Source Materials/Books/Man's Search for Meaning - Viktor E. Frankl.md",
     "06 - Permanent Notes/The Search for Goal Setting System That Works for Me.md",
@@ -195,16 +188,10 @@
     "03 - Tags/apathy.md",
     "03 - Tags/depression.md",
     "02 - Source Materials/Books/You Don't Know JS - Kyle Simpson.md",
-    "03 - Tags/life journey.md",
     "06 - Permanent Notes/I Want to Keep On Living for the Sake of Kind People Out There.md",
     "06 - Permanent Notes/Our Power and Right to Choose.md",
     "06 - Permanent Notes/Human Body is Made to Run.md",
     "03 - Tags/fitness.md",
-    "03 - Tags/health.md",
-    "06 - Permanent Notes/The Not-So-Limited Willpower.md",
-    "06 - Permanent Notes/Building Consistency with Pomodoro Timer.md",
-    "06 - Permanent Notes/Variable Declaration Compilation in JavaScript.md",
-    "06 - Permanent Notes/It's Always Worth It to Study Seriously.md",
     "MP - 2024/09",
     "MP - 2024",
     "ui",

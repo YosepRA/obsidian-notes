@@ -201,3 +201,49 @@ I'm not saying that life is easy. But being unworthy of a good life is a very un
 "\[…] standing up for herself, in spite of fear-was the way to build her self-respect."
 
 Standing up for oneself, in spite of fear, is the way to build one's self-respect. If we continue to get swayed by the doubts of others, then we won't get anywhere or achieve values that we care about.
+
+
+**p46**
+"Creative persons listen to and trust their inner signals more than the average. \[…] They are more self-sufficient. They may learn from others and be inspired by others. But they value their own thoughts and insights more than the average person does. \[…] They value the productions of their mind."
+
+There is a clear difference between people who trust their own voice more than others and those who don't.
+
+
+**p47**
+"A practice of thinking for oneself is a natural corollary-both a cause and a consequence of healthy self-esteem. So is the practice of taking full responsibility for one's own existence-for the attainment of one's goals and the achievement of one's happiness."
+
+Being responsible for one's own existence. Perhaps it means for me to think of my own wellbeing first before others.
+
+
+**p49**
+"If low self-esteem dreads the unknown and unfamiliar, high self-esteem seeks new frontiers. If low self-esteem avoids challenges, high self-steem desires and needs them. If low self-esteem looks for a chance to be absolved, high self-esteem looks for an opportunity to admire."
+
+
+**p52**
+"Self-esteem is an intimate experience; it resides in the core of one's being. It is what I think and feel about myself, not what someone else thinks or feels about me."
+
+
+**p53**
+"If self-esteem is the judgment that I am appropriate to life, the experience of competence and worth-'-if self-esteem is self-affirming consciousness, a mind that trusts itself-no one can generate and sustain this experience except myself."
+
+
+**p54**
+"Innovators and creators are persons who can to a higher degree than average accept the condition of aloneness-that is, the absence of supportive feedback from their social environment."
+
+Despite my lack of trust towards myself even when I'm rather alone in this world, I never see my aloneness as a weakness in my whole life. Yes, I tend to not speak. And yes, often it would be caused by my shyness and reluctance to speak up. But despite all of that, I never see my quietness as a weakness. Never. And I think, for me to not reject this part of myself could be one of my greatest strength if I so choose to use it.
+
+
+**p60**
+"\[…] every value pertaining to life requires action to be achieved, sustained, or enjoyed"
+
+
+**p60**
+"What determines the level of self-esteem is what the individual does, within the context of his or her knowledge and values."
+
+In the end, what matters is action. I can know all kinds of wisdom and knowing what I need to do, but if I don't do it, nothing will ever start.
+
+Stop being a thinker only. Start being not only a *thinker,* but also a *doer.*
+
+
+**p69**
+"To live consciously means to seek to be aware of everything that bears on our actions, purposes, values, and goals-to the best of our ability, whatever that ability may, and to behave in accordance with that which we see and know."
